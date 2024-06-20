@@ -37,3 +37,12 @@ Feedback is provided on the password's uniqueness.
 The scores from the length, complexity, and uniqueness checks are combined to determine the total score.
 The password is classified as "Weak," "Moderate," or "Strong" based on the total score.
 Comprehensive feedback is provided to help the user understand the strengths and weaknesses of their password.
+
+### Technologies Used
+
+**Python Programming Language:** The entire program is written in Python, a high-level, general-purpose programming language known for its readability and versatility.
+
+**Regular Expressions (regex):** The re module in Python is used to perform pattern matching and text searching
+
+### OUTPUT
+![image](https://github.com/Dhruv-111/CODTECH-Task1/assets/135569799/aad9e679-2142-420a-8d63-1a89347f264d)
