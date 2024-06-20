@@ -7,7 +7,7 @@
 
 # Overview of This Project
 
-### Projetct: PASSWORD STRENGTH CHECKER
+### Project: PASSWORD STRENGTH CHECKER
 
 ### Objective
 
